@@ -1,0 +1,4 @@
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        # [3,4,5,6,1,2]
+        return min(nums)
